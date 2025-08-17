@@ -1,0 +1,19 @@
+NANOG	EPI
+SOX2	EPI
+POU5F1	EPI
+SOX17	HYP
+GATA4	HYP
+LBH	HYP
+DAB2	TE
+GATA3	TE
+GATA2	TE
+CDX2	Mural TE
+HAND1	Mural TE
+S100A6	Mural TE
+NR2F2	Polar TE
+CCR7	Polar TE
+CYP19A1	Polar TE
+GCM1	TE fusion-competent
+OVOL1	TE fusion-competent
+SDC1	TE fusion-competent
+ERVFRD-1	TE fusion-competent

@@ -1,0 +1,15 @@
+0	Mouse cells
+1	TE 1
+2	Polar TE
+3	Mouse cells
+4	Mouse cells
+5	TE 2
+6	Mural TE
+7	Mouse cells
+8	Mouse cells
+9	Mouse cells
+10	TE fusion-competent
+11	TE 2
+12	Mouse cells
+13	hESC
+14	Mouse cells
