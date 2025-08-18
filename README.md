@@ -7,8 +7,8 @@ This repository contains the code associated with the published paper titled: "A
 The data analysis for this project is divided into two main parts:
 
 ### Shell Code
-- **Purpose**: Used for analyzing cell receptor–ligand interactions.
-- **Contents**: Shell scripts for running CellphoneDB (v5.0.0).
+- **Purpose**: To generate per-cell gene expression counts and analyze cell receptor–ligand interactions.
+- **Contents**: Shell scripts for running CellRanger (v8.0.1) and CellphoneDB (v5.0.0).
 
 ### R Code
 - **Purpose**: Applied for cell quanlity control, integration analysis, and data visualization.
